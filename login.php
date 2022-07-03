@@ -20,9 +20,6 @@
             <br>
             <input type="submit" name="submit" value="Login Now!" class="btn">
             <p>New User? <a href="register.php">Register </a></p>
-
-
-
         </form>
     </div>
     

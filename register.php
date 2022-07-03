@@ -32,9 +32,6 @@
             <br>
             <input type="submit" name="submit" value="Register Now!" class="btn">
             <p>Already have an account? <a href="login.php">Login </a></p>
-
-
-
         </form>
     </div>
     
